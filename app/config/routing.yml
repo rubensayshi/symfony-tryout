@@ -1,2 +1,5 @@
 hello:
     resource: "@HelloBundle/Resources/config/routing.yml"
+
+cmsbase:
+    resource: @CMSBaseBundle/Resources/config/routing.yml
